@@ -1,0 +1,56 @@
+1
+Patiala Salwar 
+850
+45
+9
+9
+18
+
+2
+Bengali Saree
+3200
+15
+9
+9
+18
+
+3
+Trousers
+1200
+63
+9
+9
+18
+
+4
+BLAZER
+9000
+4
+9
+9
+18
+
+5
+Three Piece Suit For MEN
+25000
+2
+9
+9
+18
+
+7
+Kurta
+1900
+6
+9
+9
+19
+
+8
+Pull Over
+2500
+6
+9
+9
+18
+
